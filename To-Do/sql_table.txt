@@ -1,0 +1,36 @@
+___________________________________________|
+______________nazov-tabulky.db_____________|
+___________________________________________|
+id                        int              |
+title                     nchar(254)       |
+condition                 nchar(63)        |
+price                     numeric(18,0)    |
+postage                   numeric(18,0)    |
+sell_date                 datetime         |
+location                  nchar(63)        |
+seller                    nchar(63)        |
+last_updated              datetime         |
+spec_condition            nchar(600)       |
+brand                     nchar(31)        |
+screen_size               nchar(31)        |
+type                      nchar(63)        |
+hard_drive_capacity       nchar(31)        |
+ram_size                  nchar(31)        |
+keyboard_type             nchar(63)        |
+bluetooth                 nchar(31)        |
+wwan                      nchar(31)        |
+wifi                      nchar(31)        |
+storage_type              nchar(31)        |
+model                     nchar(63)        |
+operating_system_edition  nchar(63)        |
+operating_system          nchar(63)        |
+graphics_processing_type  nchar(63)        |
+product_line              nchar(63)        |
+touch_screen_function     nchar(63)        |
+screen_resolution         nchar(31)        |
+processor_speed           nchar(15)        |
+processor_type            nchar(15)        |
+custom_bundle             nchar(254)       |
+warranty                  nchar(31)        |
+url                       nchar(1000)      |
+___________________________________________|
