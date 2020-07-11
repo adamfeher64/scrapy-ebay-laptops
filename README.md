@@ -1,5 +1,5 @@
 ## Summary
-A simple Python project in which the script searches for recently sold laptops on the Ebay online store based on a search query and stores their parameters in a structured table of a CSV file. Implemented using the Scrapy framework.
+A simple project designed in Python using the Scrapy library. Based on any search query, it stores records of all recently sold laptops on the well-known Ebay online store. The best results will be achieved if the search query is related to laptops. The process takes approximately 7 minutes. The result of the scraping process is a csv file containing a table of records that will be saved to local storage.
 
 ### Instructions:
 1. In the PyCharm Terminal (not in the Python Console!) you enter the ../Scrapy/Ebay folder via the "cd" command
